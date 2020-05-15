@@ -1,4 +1,4 @@
-module github.com/cugu/pagedreader
+module github.com/forensicanalysis/pagedreader
 
 go 1.14
 
